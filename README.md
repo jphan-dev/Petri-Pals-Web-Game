@@ -1,1 +1,2 @@
-# Petri Pals Web Game : 
+# Petri Pals Web Game 
+
